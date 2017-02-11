@@ -1,0 +1,9 @@
+Intro about three.js
+- https://medium.com/@necsoft/es-three-js-101-hola-mundo-parte-1-e821592823db#.iesyg3a8q
+
+Awesome examples:
+- http://unseen-music.com/yume/
+- http://audiograph.xyz/
+
+Functional-Light JavaScript (book)
+- https://github.com/getify/Functional-Light-JS
